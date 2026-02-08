@@ -1,0 +1,8 @@
+{
+  "name": "anylist-skill",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "anylist-js": "git+https://github.com/bobby060/anylist-js.git"
+  }
+}
